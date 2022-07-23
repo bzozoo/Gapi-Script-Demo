@@ -1,4 +1,4 @@
-https://codesandbox.io/signin
+https://stackoverflow.com/users/login
 # React example for Google Login using gapi-script npm package
 This example was created with create-react-app.
 
