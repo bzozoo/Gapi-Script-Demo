@@ -1,4 +1,4 @@
-https://stackoverflow.com/users/login
+https://www.szamlazz.hu/szamla/login
 # React example for Google Login using gapi-script npm package
 This example was created with create-react-app.
 
