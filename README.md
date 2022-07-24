@@ -1,4 +1,3 @@
-https://auth.opera.com/account/login
 # React example for Google Login using gapi-script npm package
 This example was created with create-react-app.
 
